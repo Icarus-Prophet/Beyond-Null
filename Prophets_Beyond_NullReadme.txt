@@ -1,10 +1,10 @@
 Prophet's Beyond Null Mod Changelist 2.1:
-
+	(2/10/2025)
 		Traits-D_Water.json:
 			Water Flowrate Changed, and Electric Water Pump boost corrected.
 
 Prophet's Beyond Null Mod Changelist 2.0:
-	
+	(2/9/2025)
 		Alterations-D_Alterations.json: 
 			Heavily modified towards roughly a 40% effectiveness increase on armor augments,
 		
