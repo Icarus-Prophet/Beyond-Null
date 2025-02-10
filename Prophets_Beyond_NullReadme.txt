@@ -1,0 +1,31 @@
+	Prophet's Beyond Null Mod Changelist:
+	
+		Alterations-D_Alterations.json: 
+			Heavily modified towards roughly a 40% effectiveness increase on armor augments,
+		
+		Armour-D_ArmourSetBonus.json: 
+			Heavily moddified in a similar fashion with added effects,
+		
+		Building-D_BuildingStability.json: 
+			Tempered Glass and Aluminum Beam increased in stability,
+		
+		Character-CharacterGrowth.json: 
+			Maximum Level as well as Display set to 1000,
+		
+		Crafting-D_ProcessorRecipes.json: 
+			Titanium Plate Recipe Input/Output Inverted...because why not,
+		
+		Inventory-D_InventoryInfo.json: 
+			Inventory and most containers have a 40% increase in their storage capacity,
+		
+		Items-Types-D_BuildingTypes.json: 
+			Aluminum and Tempered Glass Storm and impact resistance increased to something realistic.
+		
+		Stats-D_CharacterStartingStats.json: 
+			Base Maximum for: Oxygen, Food, Water, and Movement speed increased by 40%, Consumption for same stats also decreased by 40%, Other minor quality of life adjustments as well as 2 extra Module Slots and a Food Slot,
+		
+		Traits-D_Energy.json: 
+			Electricity Production increased by 40%,
+		
+		Traits-D_Energy.json:
+			Water Pump Production increased by 40%
