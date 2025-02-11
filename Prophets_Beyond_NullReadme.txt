@@ -1,3 +1,8 @@
+Prophet's Beyond Null Mod Changelist 2.15:
+	(2/10/2025)
+		Inventory-D_InventoryInfo.json:
+			Added Fireplace, Firepit, and a few others to the boosted inventory list.
+
 Prophet's Beyond Null Mod Changelist 2.1:
 	(2/10/2025)
 		Traits-D_Water.json:
