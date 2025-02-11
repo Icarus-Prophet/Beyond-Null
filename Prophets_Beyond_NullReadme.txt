@@ -1,5 +1,5 @@
 Prophet's Beyond Null Mod Changelist 2.2:
-	(2/10/2025)
+	(2/11/2025)
 		Inventory-D_InventoryInfo.json:
 			Added entries for Space_Player_Loadout, DropShip_Equipment, and On_Prospect_Loadout_Request tripling the droppod capacity.
 
