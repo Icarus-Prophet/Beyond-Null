@@ -1,4 +1,4 @@
-Prophet's Beyond Null Mod Combined Changelist for 2.5 to 2.6:
+Prophet's Beyond Null Mod Combined Changelist for 2.5 to 2.65:
 	(2/16/2025)
 		Crafting-D_CraftingModification.json:
 			Entry Wood_Building_Health adjusted to accomodate for Wood Structures fix.
@@ -11,7 +11,7 @@ Prophet's Beyond Null Mod Combined Changelist for 2.5 to 2.6:
 		Talents-D_Talents.json:
 			The entire list of talents Starting from Bow_Accuracy to Fishing_Golden_Zone_Size carefully trimmed to only the talents that have values and then given the 40% Boost.
 		Tags-D_TagQueries.json:
-			Adjusted Building_Wood to include Beeswax piece in it's search, Added entry: Any_WoodFortification to accomodate Wood Structures fix, Adjusted Spoilable_ColdSlowsSpoilRate to remove ice from it's table disallowing frosting.
+			Adjusted Building_Wood to include Beeswax pieces and fortification Walls in it's search, Added entry: Any_WoodFortification to accomodate Wood Structures fix, Adjusted Spoilable_ColdSlowsSpoilRate to remove ice from it's table disallowing frosting.
 	(2/14/2025)
 		List To be generated...lol hang on it's a bit.
 
