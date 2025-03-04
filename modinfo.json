@@ -12,6 +12,19 @@
       "files": {
           "exmodz": "https://github.com/Icarus-Prophet/Beyond-Null/raw/main/Prophets_Beyond_Null.EXMODZ"
       }
+    },
+    {
+      "name": "Prophet's Olympus Ascended",
+      "author": "Prophet",
+      "version": "0.85",
+      "week": "169",
+      "compatibility": "W169",
+      "description": "Prophet's Olympus Ascended, Updating concept to Week 169 completed... Adds exotic infused creatures to Olympus. Ill-fated Prospector pets added.",
+      "imageURL": "https://github.com/Icarus-Prophet/Beyond-Null/raw/main/Prophets_Olympus_AscendedImageOnly.png",
+      "readmeURL": "https://github.com/Icarus-Prophet/Beyond-Null/raw/main/Prophets_Olympus_AscendedReadme.txt",
+      "files": {
+          "exmodz": "https://github.com/Icarus-Prophet/Beyond-Null/raw/main/Prophets_Olympus_Ascended.EXMODZ"
+      }
     }
    ]
  }
